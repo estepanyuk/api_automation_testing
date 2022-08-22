@@ -14,7 +14,7 @@ public class SampleTestCase {
         HttpHeaders headers = new HttpHeaders();
         headers.setContentType(MediaType.APPLICATION_JSON);
 
-        String userName = "userkat167";
+        String userName = "userN1";
         //post
         HttpEntity<String> entity = new HttpEntity<>("{\"username\":\"" + userName + "\"}", headers);
         ResponseEntity<String> answerPost = restTemplate.postForEntity("https://petstore.swagger.io/v2/user", entity, String.class);
