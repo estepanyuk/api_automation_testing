@@ -54,7 +54,7 @@ Step 6 'Try get deleted user'/'Пробуем получить удаленно�
 2.Найти метод public void testUserInfoResponse() 
 3.Слева на панели нажать на "Run test"
 ```
-!["API Тест"](/Users/ekaterinastepanuk/IdeaProjects/api_automation_testing/Docs/APITest.png)
+!["API Тест"](/https://github.com/estepanyuk/api_automation_testing/blob/fa6a53c3de8e8489d46bc72aff08931fdf405e7e/Docs/APITest.png)
 
 # Для реализации данной задачи использовались:
 1. Java/Kotlin
