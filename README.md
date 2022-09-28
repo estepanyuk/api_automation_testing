@@ -57,8 +57,5 @@ Step 6 'Try get deleted user'/'Пробуем получить удаленно�
 !["API Тест"](https://github.com/estepanyuk/api_automation_testing/blob/fa6a53c3de8e8489d46bc72aff08931fdf405e7e/Docs/APITest.png)
 
 # Для реализации данной задачи использовались:
-1. Java/Kotlin
-2. Junit
-3. Maven/Gradle
-4. Rest Assured
-5. Allure
+1. Java
+2. Rest Assured
